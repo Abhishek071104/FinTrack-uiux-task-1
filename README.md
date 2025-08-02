@@ -37,3 +37,6 @@ A visually appealing and modern **Finance Management Mobile App UI** built in **
 - Font: Clean, modern sans-serif typeface
 
 ---
+
+## Prototpe link
+https://www.figma.com/proto/fSC0HdhIxWf4dniyZGyEuu/UI-UX-Design-Task-1?page-id=0%3A1&node-id=46-77&p=f&viewport=458%2C161%2C0.59&t=fj94MP2xVz68YIne-1&scaling=scale-down&content-scaling=fixed
